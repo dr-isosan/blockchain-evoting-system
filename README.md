@@ -1,5 +1,5 @@
 # ELECTRYPTION
-#E-Voting System - Blockchain-Based Electronic Voting System
+# E-Voting System - Blockchain-Based Electronic Voting System
 
 [🇹🇷 Türkçe](#turkish) | [🇬🇧 English](#english)
 
