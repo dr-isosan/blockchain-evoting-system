@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Hardhat files
+cache/
+artifacts/
+
+# Environment variables
+.env
+!.env.example
+
+# TypeChain
+typechain/
+typechain-types/
+
+# Logs
+*.log
