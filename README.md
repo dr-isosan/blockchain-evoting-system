@@ -364,8 +364,8 @@ This project is developed for educational purposes.
 
 ## 👥 Developers
 
-- İshak DURAN
-- İbrahim GÜNEŞ
+- [İshak DURAN] (https://github.com/dr-isosan)
+- [İbrahim GÜNEŞ] (https://github.com/ibra465-gunes)
 - Cuma TALJİBİNİ
 
 ---
